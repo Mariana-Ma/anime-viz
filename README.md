@@ -8,7 +8,7 @@ Built with **JavaScript**, **D3**, and **Observable Plot**. This project focuses
 ---
 
 ## Demo
-[View Live Site][https://mariana-ma.github.io/anime-viz/]
+View Live Site:[https://mariana-ma.github.io/anime-viz/]
 
 ---
 
