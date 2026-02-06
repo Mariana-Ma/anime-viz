@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Anime Popularity vs. Ranking</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <h1>How is anime rating driven by popularity & genre?</h1>
+    <h3>Explore the relationship between anime popularity, average rating, and genre.</h3>
+    <div style="display: flex;">
+        <div id="chart" style="flex: 2;"></div>
+        <div id="details" style="flex: 1; padding-left: 20px;">
+          <h2>Click a dot to see details</h2>
+            <div id="anime-card">
+                <h3 id="anime-title"></h3>
+                <h4 id="anime-genre"></h4>
+                <img id="anime-img" src="" alt="" style="max-width: 100%;">
+                <p id="anime-desc"></p>
+            </div>
+        </div>
+    </div> 
+
+    <p>Note: X-axis is on a log scale to visualize wide ranges in popularity.</p>
+    <p>Data source: <a href="https://www.kaggle.com/datasets/furkanark/myanimelist-top-10000-anime-dataset?resource=download&select=anime.csv">Kaggle MyAnimeList Dataset</a></p>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+    <script src="script.js"></script>
+  </body>
+  
+</html>
