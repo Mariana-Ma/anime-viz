@@ -19,7 +19,7 @@ anime_id,genre
 31,Drama
 32,Avant Garde
 33,Action
-43,Award Winning
+43,Mystery
 44,Action
 45,Action
 47,Action
@@ -27,7 +27,7 @@ anime_id,genre
 49,Comedy
 50,Comedy
 51,Action
-52,Award Winning
+52,Comedy
 53,Comedy
 55,Action
 58,Adventure
@@ -57,9 +57,9 @@ anime_id,genre
 88,Drama
 89,Drama
 90,Drama
-91,Award Winning
+91,Drama
 92,Adventure
-93,Award Winning
+93,Drama
 94,Drama
 95,Adventure
 96,Drama
@@ -127,7 +127,7 @@ anime_id,genre
 162,Comedy
 163,Adventure
 164,Action
-165,Award Winning
+165,Drama
 167,Adventure
 168,Action
 169,Action
@@ -169,7 +169,7 @@ anime_id,genre
 212,Adventure
 215,Comedy
 218,Comedy
-219,Award Winning
+219,Drama
 222,Action
 223,Action
 225,Action
@@ -185,7 +185,7 @@ anime_id,genre
 236,Action
 237,Adventure
 238,Action
-239,Award Winning
+239,Drama
 241,Comedy
 242,Action
 243,Boys Love
@@ -196,8 +196,8 @@ anime_id,genre
 250,Action
 251,Adventure
 252,Drama
-255,Award Winning
-256,Award Winning
+255,Comedy
+256,Drama
 257,Action
 258,Drama
 259,Comedy
@@ -236,7 +236,7 @@ anime_id,genre
 302,Adventure
 303,Comedy
 304,Comedy
-306,Award Winning
+306,Comedy
 308,Drama
 310,Comedy
 311,Drama
@@ -252,11 +252,11 @@ anime_id,genre
 325,Drama
 326,Horror
 327,Comedy
-329,Award Winning
+329,Drama
 330,Comedy
 331,Adventure
 332,Adventure
-333,Award Winning
+333,Comedy
 334,Comedy
 335,Comedy
 336,Drama
@@ -282,8 +282,8 @@ anime_id,genre
 365,Boys Love
 369,Avant Garde
 370,Action
-371,Award Winning
-372,Award Winning
+371,Comedy
+372,Comedy
 373,Adventure
 374,Action
 375,Adventure
@@ -315,13 +315,13 @@ anime_id,genre
 402,Adventure
 403,Comedy
 404,Action
-405,Award Winning
+405,Horror
 406,Sci-Fi
 407,Comedy
 408,Action
 411,Adventure
 412,Comedy
-415,Award Winning
+415,Comedy
 416,Action
 417,Action
 418,Adventure
@@ -338,11 +338,11 @@ anime_id,genre
 430,Action
 431,Adventure
 432,Action
-433,Award Winning
+433,Drama
 435,Adventure
 437,Avant Garde
 438,Action
-440,Award Winning
+440,Drama
 441,Avant Garde
 442,Action
 443,Comedy
@@ -367,8 +367,8 @@ anime_id,genre
 464,Action
 465,Action
 466,Action
-467,Award Winning
-468,Award Winning
+467,Mystery
+468,Mystery
 469,Comedy
 470,Comedy
 471,Comedy
@@ -386,7 +386,7 @@ anime_id,genre
 484,Adventure
 486,Adventure
 487,Comedy
-489,Award Winning
+489,Slice of Life
 493,Mystery
 495,Adventure
 496,Adventure
@@ -460,7 +460,7 @@ anime_id,genre
 590,Comedy
 591,Comedy
 592,Adventure
-593,Award Winning
+593,Drama
 594,Action
 595,Action
 596,Comedy
@@ -553,7 +553,7 @@ anime_id,genre
 754,Adventure
 757,Adventure
 758,Drama
-759,Award Winning
+759,Comedy
 760,Action
 761,Adventure
 762,Action
@@ -606,7 +606,7 @@ anime_id,genre
 844,Adventure
 845,Action
 846,Comedy
-849,Award Winning
+849,Comedy
 850,Boys Love
 851,Action
 852,Comedy
@@ -681,7 +681,7 @@ anime_id,genre
 942,Comedy
 943,Drama
 944,Action
-949,Award Winning
+949,Comedy
 953,Action
 956,Adventure
 957,Adventure
@@ -718,7 +718,7 @@ anime_id,genre
 999,Action
 1000,Action
 1001,Adventure
-1002,Award Winning
+1002,Comedy
 1003,Comedy
 1005,Adventure
 1006,Action
@@ -750,7 +750,7 @@ anime_id,genre
 1045,Adventure
 1046,Adventure
 1048,Horror
-1049,Award Winning
+1049,Drama
 1050,Adventure
 1051,Adventure
 1056,Comedy
@@ -778,7 +778,7 @@ anime_id,genre
 1092,Adventure
 1093,Drama
 1094,Action
-1096,Award Winning
+1096,Drama
 1101,Action
 1103,Comedy
 1104,Comedy
@@ -787,7 +787,7 @@ anime_id,genre
 1109,Drama
 1111,Adventure
 1112,Adventure
-1116,Award Winning
+1116,Drama
 1117,Adventure
 1118,Action
 1119,Adventure
@@ -851,7 +851,7 @@ anime_id,genre
 1195,Action
 1198,Comedy
 1202,Action
-1204,Award Winning
+1204,Drama
 1205,Adventure
 1207,Drama
 1208,Adventure
@@ -986,7 +986,7 @@ anime_id,genre
 1437,Action
 1438,Action
 1439,Action
-1441,Award Winning
+1441,Drama
 1443,Action
 1444,Adventure
 1448,Adventure
@@ -994,11 +994,11 @@ anime_id,genre
 1453,Comedy
 1454,Action
 1456,Action
-1457,Award Winning
+1457,Drama
 1458,Adventure
 1459,Adventure
 1460,Adventure
-1462,Award Winning
+1462,Drama
 1466,Adventure
 1468,Action
 1469,Action
@@ -1024,7 +1024,7 @@ anime_id,genre
 1491,Adventure
 1493,Action
 1495,Drama
-1497,Award Winning
+1497,Drama
 1498,Action
 1500,Comedy
 1503,Adventure
@@ -1037,7 +1037,7 @@ anime_id,genre
 1516,Comedy
 1517,Action
 1520,Drama
-1521,Award Winning
+1521,Drama
 1524,Slice of Life
 1525,Action
 1526,Action
@@ -1069,7 +1069,7 @@ anime_id,genre
 1563,Adventure
 1564,Action
 1565,Action
-1566,Award Winning
+1566,Mystery
 1567,Adventure
 1568,Action
 1569,Comedy
@@ -1077,7 +1077,7 @@ anime_id,genre
 1571,Horror
 1573,Action
 1574,Adventure
-1575,Award Winning
+1575,Drama
 1576,Action
 1577,Action
 1578,Adventure
@@ -1204,7 +1204,7 @@ anime_id,genre
 1818,Action
 1822,Action
 1823,Action
-1824,Award Winning
+1824,Drama
 1826,Adventure
 1827,Action
 1829,Adventure
@@ -1279,7 +1279,7 @@ anime_id,genre
 1962,Action
 1964,Adventure
 1965,Drama
-1967,Award Winning
+1967,Drama
 1968,Drama
 1969,Drama
 1972,Action
@@ -1292,7 +1292,7 @@ anime_id,genre
 1994,Adventure
 1996,Comedy
 1999,Drama
-2000,Award Winning
+2000,Comedy
 2001,Adventure
 2004,Comedy
 2006,Adventure
@@ -1414,7 +1414,7 @@ anime_id,genre
 2230,Adventure
 2234,Comedy
 2235,Drama
-2236,Award Winning
+2236,Drama
 2237,Comedy
 2243,Action
 2245,Drama
@@ -1583,7 +1583,7 @@ anime_id,genre
 2634,Comedy
 2645,Adventure
 2648,Comedy
-2649,Award Winning
+2649,Comedy
 2650,Adventure
 2651,Comedy
 2652,Comedy
@@ -1640,7 +1640,7 @@ anime_id,genre
 2756,Drama
 2757,Action
 2758,Sci-Fi
-2759,Award Winning
+2759,Drama
 2761,Drama
 2762,Action
 2766,Adventure
@@ -1694,7 +1694,7 @@ anime_id,genre
 2895,Adventure
 2901,Action
 2903,Action
-2904,Award Winning
+2904,Drama
 2905,Action
 2907,Comedy
 2911,Drama
@@ -1770,7 +1770,7 @@ anime_id,genre
 3086,Action
 3087,Action
 3088,Drama
-3089,Award Winning
+3089,Drama
 3090,Comedy
 3091,Comedy
 3092,Boys Love
@@ -1880,7 +1880,7 @@ anime_id,genre
 3468,Comedy
 3469,Drama
 3470,Comedy
-3472,Award Winning
+3472,Comedy
 3483,Comedy
 3484,Comedy
 3486,Adventure
@@ -1890,8 +1890,8 @@ anime_id,genre
 3508,Avant Garde
 3512,Comedy
 3515,Action
-3518,Award Winning
-3519,Award Winning
+3518,Fantasy
+3519,Comedy
 3522,Action
 3535,Comedy
 3547,Action
@@ -1900,7 +1900,7 @@ anime_id,genre
 3561,Adventure
 3568,Comedy
 3570,Adventure
-3572,Award Winning
+3572,Romance
 3574,Action
 3576,Adventure
 3577,Comedy
@@ -1941,7 +1941,7 @@ anime_id,genre
 3736,Comedy
 3737,Adventure
 3738,Adventure
-3744,Award Winning
+3744,Drama
 3745,Action
 3750,Drama
 3757,Adventure
@@ -1950,8 +1950,8 @@ anime_id,genre
 3782,Action
 3783,Action
 3784,Drama
-3785,Award Winning
-3786,Award Winning
+3785,Drama
+3786,Drama
 3791,Comedy
 3806,Adventure
 3807,Drama
@@ -2029,7 +2029,7 @@ anime_id,genre
 4087,Action
 4088,Action
 4094,Action
-4095,Award Winning
+4095,Horror
 4101,Comedy
 4106,Action
 4113,Fantasy
@@ -2060,7 +2060,7 @@ anime_id,genre
 4209,Action
 4211,Action
 4214,Comedy
-4220,Award Winning
+4220,Drama
 4224,Drama
 4240,Adventure
 4246,Adventure
@@ -2088,7 +2088,7 @@ anime_id,genre
 4468,Adventure
 4469,Comedy
 4470,Action
-4475,Award Winning
+4475,Drama
 4476,Adventure
 4477,Comedy
 4483,Fantasy
@@ -2263,7 +2263,7 @@ anime_id,genre
 5353,Comedy
 5355,Action
 5356,Action
-5365,Award Winning
+5365,Drama
 5369,Action
 5420,Drama
 5440,Adventure
@@ -2291,12 +2291,12 @@ anime_id,genre
 5593,Action
 5597,Comedy
 5628,Comedy
-5630,Award Winning
+5630,Mystery
 5652,Adventure
 5667,Comedy
 5675,Sci-Fi
 5678,Drama
-5681,Award Winning
+5681,Comedy
 5682,Action
 5684,Action
 5688,Comedy
@@ -2325,10 +2325,10 @@ anime_id,genre
 5883,Action
 5886,Adventure
 5914,Comedy
-5916,Award Winning
+5916,Drama
 5923,Adventure
 5933,Adventure
-5936,Award Winning
+5936,Drama
 5938,Comedy
 5940,Action
 5941,Drama
@@ -2388,7 +2388,7 @@ anime_id,genre
 6203,Comedy
 6205,Action
 6209,Sci-Fi
-6211,Award Winning
+6211,Drama
 6213,Action
 6217,Comedy
 6219,Fantasy
@@ -2537,9 +2537,9 @@ anime_id,genre
 7157,Comedy
 7158,Comedy
 7160,Action
-7169,Award Winning
+7169,Drama
 7193,Drama
-7222,Award Winning
+7222,Romance
 7230,Adventure
 7252,Adventure
 7254,Action
@@ -2551,7 +2551,7 @@ anime_id,genre
 7305,Adventure
 7307,Comedy
 7308,Adventure
-7311,Award Winning
+7311,Mystery
 7322,Comedy
 7329,Adventure
 7330,Adventure
@@ -2606,8 +2606,8 @@ anime_id,genre
 7674,Comedy
 7681,Adventure
 7695,Action
-7711,Award Winning
-7718,Award Winning
+7711,Supernatural
+7718,Fantasy
 7723,Comedy
 7724,Horror
 7728,Action
@@ -2620,8 +2620,8 @@ anime_id,genre
 7769,Comedy
 7774,Comedy
 7779,Drama
-7785,Award Winning
-7791,Award Winning
+7785,Comedy
+7791,Comedy
 7805,Comedy
 7816,Comedy
 7817,Comedy
@@ -2648,7 +2648,7 @@ anime_id,genre
 8139,Adventure
 8140,Adventure
 8141,Adventure
-8142,Award Winning
+8142,Drama
 8145,Action
 8146,Action
 8153,Adventure
@@ -2657,7 +2657,7 @@ anime_id,genre
 8156,Sports
 8158,Adventure
 8171,Action
-8187,Award Winning
+8187,Comedy
 8190,Comedy
 8194,Adventure
 8197,Sci-Fi
@@ -2679,7 +2679,7 @@ anime_id,genre
 8310,Adventure
 8311,Adventure
 8331,Comedy
-8332,Award Winning
+8332,Fantasy
 8358,Action
 8359,Adventure
 8360,Comedy
@@ -2708,7 +2708,7 @@ anime_id,genre
 8457,Action
 8460,Action
 8465,Comedy
-8475,Award Winning
+8475,Drama
 8476,Romance
 8481,Drama
 8487,Action
@@ -2747,7 +2747,7 @@ anime_id,genre
 8876,Comedy
 8899,Action
 8915,Action
-8917,Award Winning
+8917,Sci-Fi
 8934,Romance
 8937,Action
 8956,Action
@@ -2829,7 +2829,7 @@ anime_id,genre
 9598,Comedy
 9611,Comedy
 9613,Action
-9617,Award Winning
+9617,Comedy
 9618,Comedy
 9624,Comedy
 9656,Drama
@@ -2846,7 +2846,7 @@ anime_id,genre
 9745,Action
 9750,Action
 9751,Action
-9756,Award Winning
+9756,Drama
 9759,Action
 9760,Adventure
 9782,Mystery
@@ -2883,7 +2883,7 @@ anime_id,genre
 10015,Action
 10017,Action
 10020,Comedy
-10029,Award Winning
+10029,Romance
 10030,Comedy
 10033,Action
 10036,Drama
@@ -2953,11 +2953,11 @@ anime_id,genre
 10372,Action
 10379,Slice of Life
 10384,Comedy
-10389,Award Winning
+10389,Drama
 10396,Action
 10397,Drama
 10405,Adventure
-10408,Award Winning
+10408,Drama
 10418,Action
 10444,Action
 10447,Fantasy
@@ -2970,7 +2970,7 @@ anime_id,genre
 10479,Action
 10490,Action
 10491,Comedy
-10495,Award Winning
+10495,Comedy
 10502,Comedy
 10516,Drama
 10521,Comedy
@@ -3004,7 +3004,7 @@ anime_id,genre
 10681,Action
 10686,Action
 10687,Adventure
-10688,Award Winning
+10688,Drama
 10689,Mystery
 10693,Mystery
 10702,Action
@@ -3133,7 +3133,7 @@ anime_id,genre
 11933,Action
 11977,Drama
 11979,Drama
-11981,Award Winning
+11981,Drama
 12001,Action
 12015,Action
 12017,Action
@@ -3165,7 +3165,7 @@ anime_id,genre
 12337,Drama
 12343,Action
 12347,Action
-12355,Award Winning
+12355,Slice of Life
 12365,Comedy
 12367,Action
 12403,Comedy
@@ -3229,7 +3229,7 @@ anime_id,genre
 13185,Action
 13201,Action
 13203,Action
-13215,Award Winning
+13215,Drama
 13239,Action
 13245,Comedy
 13247,Adventure
@@ -3252,7 +3252,7 @@ anime_id,genre
 13599,Drama
 13601,Action
 13629,Drama
-13639,Award Winning
+13639,Slice of Life
 13655,Comedy
 13659,Comedy
 13663,Comedy
@@ -3348,7 +3348,7 @@ anime_id,genre
 15177,Romance
 15219,Action
 15225,Comedy
-15227,Award Winning
+15227,Drama
 15313,Comedy
 15315,Action
 15323,Action
@@ -3426,8 +3426,8 @@ anime_id,genre
 16574,Action
 16576,Action
 16592,Horror
-16662,Award Winning
-16664,Award Winning
+16662,Drama
+16664,Fantasy
 16678,Adventure
 16680,Action
 16694,Comedy
@@ -3438,7 +3438,7 @@ anime_id,genre
 16756,Action
 16762,Supernatural
 16774,Action
-16782,Award Winning
+16782,Drama
 16866,Comedy
 16870,Action
 16890,Comedy
@@ -3484,7 +3484,7 @@ anime_id,genre
 17875,Comedy
 17893,Comedy
 17895,Drama
-17909,Award Winning
+17909,Drama
 17919,Action
 17947,Action
 17959,Drama
@@ -3531,8 +3531,8 @@ anime_id,genre
 19021,Comedy
 19099,Adventure
 19109,Comedy
-19111,Award Winning
-19115,Award Winning
+19111,Slice of Life
+19115,Drama
 19117,Adventure
 19123,Action
 19151,Romance
@@ -3630,7 +3630,7 @@ anime_id,genre
 21339,Action
 21353,Action
 21373,Action
-21395,Award Winning
+21395,Comedy
 21415,Action
 21419,Action
 21431,Drama
@@ -3649,7 +3649,7 @@ anime_id,genre
 21595,Action
 21603,Drama
 21639,Action
-21647,Award Winning
+21647,Romance
 21653,Action
 21659,Action
 21671,Comedy
@@ -3684,7 +3684,7 @@ anime_id,genre
 22117,Action
 22123,Comedy
 22125,Comedy
-22135,Award Winning
+22135,Drama
 22145,Action
 22147,Comedy
 22199,Action
@@ -3766,7 +3766,7 @@ anime_id,genre
 23931,Action
 23945,Comedy
 23985,Comedy
-23987,Award Winning
+23987,Drama
 23991,Action
 24029,Action
 24071,Comedy
@@ -3787,7 +3787,7 @@ anime_id,genre
 24475,Comedy
 24489,Action
 24543,Action
-24591,Award Winning
+24591,Comedy
 24619,Action
 24627,Comedy
 24629,Gourmet
@@ -3810,7 +3810,7 @@ anime_id,genre
 24919,Action
 24921,Action
 24991,Comedy
-24997,Award Winning
+24997,Slice of Life
 25011,Comedy
 25013,Adventure
 25015,Action
@@ -3847,7 +3847,7 @@ anime_id,genre
 25749,Adventure
 25777,Action
 25805,Adventure
-25835,Award Winning
+25835,Comedy
 25839,Gourmet
 25859,Comedy
 25861,Comedy
@@ -3870,7 +3870,7 @@ anime_id,genre
 26443,Action
 26449,Action
 27387,Action
-27411,Award Winning
+27411,Mystery
 27441,Comedy
 27525,Action
 27601,Comedy
@@ -3893,7 +3893,7 @@ anime_id,genre
 27947,Action
 27957,Comedy
 27967,Action
-27969,Award Winning
+27969,Drama
 28013,Romance
 28025,Comedy
 28071,Comedy
@@ -3938,7 +3938,7 @@ anime_id,genre
 28817,Action
 28819,Comedy
 28833,Action
-28851,Award Winning
+28851,Drama
 28853,Adventure
 28869,Adventure
 28883,Action
@@ -4026,7 +4026,7 @@ anime_id,genre
 30537,Action
 30544,Action
 30549,Drama
-30585,Award Winning
+30585,Drama
 30652,Comedy
 30654,Action
 30679,Action
@@ -4202,7 +4202,7 @@ anime_id,genre
 32240,Comedy
 32262,Comedy
 32268,Comedy
-32281,Award Winning
+32281,Drama
 32282,Gourmet
 32287,Drama
 32313,Action
@@ -4265,14 +4265,14 @@ anime_id,genre
 32930,Comedy
 32936,Adventure
 32937,Adventure
-32948,Award Winning
+32948,Drama
 32949,Drama
 32951,Action
 32954,Fantasy
 32979,Adventure
 32983,Slice of Life
 32989,Comedy
-32995,Award Winning
+32995,Sports
 32998,Action
 33003,Action
 33010,Avant Garde
@@ -4584,7 +4584,7 @@ anime_id,genre
 35672,Adventure
 35673,Adventure
 35674,Adventure
-35677,Award Winning
+35677,Drama
 35706,Drama
 35712,Comedy
 35714,Avant Garde
@@ -4604,7 +4604,7 @@ anime_id,genre
 35839,Adventure
 35842,Avant Garde
 35843,Action
-35847,Award Winning
+35847,Sci-Fi
 35849,Drama
 35851,Drama
 35857,Action
@@ -4721,7 +4721,7 @@ anime_id,genre
 36871,Action
 36873,Comedy
 36882,Action
-36884,Award Winning
+36884,Comedy
 36885,Comedy
 36894,Action
 36906,Comedy
@@ -4843,7 +4843,7 @@ anime_id,genre
 37657,Action
 37672,Action
 37675,Action
-37682,Award Winning
+37682,Comedy
 37703,Sci-Fi
 37711,Drama
 37716,Comedy
@@ -4887,14 +4887,14 @@ anime_id,genre
 37969,Comedy
 37970,Drama
 37972,Drama
-37976,Award Winning
+37976,Comedy
 37979,Action
-37981,Award Winning
+37981,Drama
 37982,Drama
 37983,Comedy
 37984,Action
 37986,Action
-37987,Award Winning
+37987,Drama
 37988,Comedy
 37989,Action
 37991,Action
@@ -5012,7 +5012,7 @@ anime_id,genre
 38807,Action
 38810,Action
 38816,Drama
-38826,Award Winning
+38826,Drama
 38830,Action
 38837,Action
 38854,Fantasy
@@ -5108,7 +5108,7 @@ anime_id,genre
 39575,Adventure
 39576,Action
 39581,Adventure
-39585,Award Winning
+39585,Comedy
 39587,Drama
 39589,Action
 39597,Action
@@ -5145,7 +5145,7 @@ anime_id,genre
 39846,Drama
 39912,Action
 39935,Action
-39938,Award Winning
+39938,Fantasy
 39940,Gourmet
 39948,Mystery
 39972,Mystery
@@ -5195,7 +5195,7 @@ anime_id,genre
 40256,Action
 40323,Action
 40327,Adventure
-40331,Award Winning
+40331,Slice of Life
 40351,Action
 40356,Action
 40357,Action
@@ -5314,7 +5314,7 @@ anime_id,genre
 41139,Action
 41140,Action
 41141,Action
-41168,Award Winning
+41168,Drama
 41194,Action
 41205,Action
 41206,Adventure
@@ -5479,7 +5479,7 @@ anime_id,genre
 42985,Action
 42994,Comedy
 43007,Comedy
-43229,Award Winning
+43229,Mystery
 43291,Action
 43299,Drama
 43325,Mystery
@@ -5493,7 +5493,7 @@ anime_id,genre
 43609,Comedy
 43626,Action
 43690,Action
-43755,Award Winning
+43755,Drama
 43760,Adventure
 43767,Drama
 43779,Comedy
@@ -5564,15 +5564,15 @@ anime_id,genre
 45599,Action
 45604,Drama
 45613,Comedy
-45620,Award Winning
-45649,Award Winning
+45620,Drama
+45649,Sports
 45653,Comedy
 45654,Action
 45753,Action
 45783,Action
 45961,Comedy
 46095,Action
-46102,Award Winning
+46102,Drama
 46420,Action
 46422,Fantasy
 46431,Comedy
@@ -5662,7 +5662,7 @@ anime_id,genre
 48810,Adventure
 48842,Action
 48845,Gourmet
-48849,Award Winning
+48849,Mystery
 48857,Fantasy
 48862,Action
 48867,Action
@@ -5710,7 +5710,7 @@ anime_id,genre
 49290,Drama
 49291,Drama
 49297,Action
-49303,Award Winning
+49303,Drama
 49305,Action
 49310,Drama
 49316,Action
@@ -5800,7 +5800,7 @@ anime_id,genre
 49926,Action
 49930,Action
 49969,Sci-Fi
-49976,Award Winning
+49976,Slice of Life
 49979,Comedy
 49980,Adventure
 49981,Action
@@ -5818,7 +5818,7 @@ anime_id,genre
 50197,Comedy
 50204,Mystery
 50205,Action
-50206,Award Winning
+50206,Slice of Life
 50207,Action
 50217,Comedy
 50240,Action
@@ -6038,7 +6038,7 @@ anime_id,genre
 51958,Comedy
 52020,Adventure
 52031,Drama
-52034,Award Winning
+52034,Drama
 52045,Comedy
 52046,Action
 52080,Comedy
@@ -6075,7 +6075,7 @@ anime_id,genre
 52438,Avant Garde
 52446,Comedy
 52482,Adventure
-52493,Award Winning
+52493,Slice of Life
 52505,Horror
 52522,Action
 52523,Comedy

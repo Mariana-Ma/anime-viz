@@ -7,11 +7,12 @@ const ALLOWED_GENRES = new Set([
     "Horror",
     "Mystery",
     "Slice of Life",
-    "Supernatural"
+    "Supernatural",
+    "Other"
 ]);
 
 const GENRE_COLORS = {
-    Action: "#b5bef5",
+    Action: "#b5c9f5",
     Adventure: "#87c3ba",
     Drama: "#c5d88c",
     Comedy: "#ffe2a4",
@@ -19,7 +20,8 @@ const GENRE_COLORS = {
     Mystery: "#f590a1",
     "Slice of Life": "#e5b2ed",
     Supernatural: "#9a81b0",
-    "Avant Garde": "#c9a98d"
+    "Avant Garde": "#c9a98d",
+    Other: "#c2bebc"
 };
 
 Promise.all([
